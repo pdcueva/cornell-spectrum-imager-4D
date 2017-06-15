@@ -1,5 +1,3 @@
-package plugins.CSI;
-
 import ij.plugin.PlugIn;
 import ij.*;
 import ij.gui.*;
